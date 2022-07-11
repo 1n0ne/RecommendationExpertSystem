@@ -1,7 +1,9 @@
 # RecommendationExpertSystem
  Recommendation expert system  for Taif  tourist using prologز
  The program is designed to direct the tourist to the appropriate place based on the budget, number of people, type of relationship and type of vacation as shown in the if then rules
+ 
  -->
+ 
  If budget 500 SAR or more and three-person  or more and type of relation family and the vacation type Entertainment
 then location is Taif Zoo
 
