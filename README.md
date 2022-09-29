@@ -1,5 +1,5 @@
 # RecommendationExpertSystem
- Recommendation expert system  for Taif  tourist using prologز
+ Recommendation expert system  for Taif  tourist using prolog
  The program is designed to direct the tourist to the appropriate place based on the budget, number of people, type of relationship and type of vacation as shown in the if then rules
  
  -->
